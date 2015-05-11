@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="Halv Translations">
+	<Package name="Missing">
+		<Container name="Halo jump fix">
+			<Key ID="STR_HALO_OPEN_CHUTE">
+				<Original>Open Chute</Original>
+				<English>Open Chute</English>
+				<Czech>otevřený Chute</Czech>
+				<French>Ouvrir Chute</French>
+				<German>Öffnen Chute</German>
+				<Italian>Aprire Chute</Italian>
+				<Polish>Otwórz Chute</Polish>
+				<Portuguese>Abrir Chute</Portuguese>
+				<Russian>Открыть парашют</Russian>
+				<Spanish>Abrir Chute</Spanish>
+			</Key>
+		</Container>
+	</Package>
+	<Package name="HALVSpawn">
+		<Container name="Spawn Dialogs Strings">
+			<Key ID="STR_HALV_SELECT_SPAWN">
+				<Original>Select Spawn</Original>
+				<English>Select Spawn</English>
+				<Czech>Vybrat Potěr</Czech>
+				<French>Sélectionnez Spawn</French>
+				<German>Wählen Spawn</German>
+				<Italian>Seleziona Spawn</Italian>
+				<Polish>Wybierz Spawn</Polish>
+				<Portuguese>Selecionar do Spawn</Portuguese>
+				<Russian>Выберите Spawn</Russian>
+				<Spanish>Seleccione Engendro</Spanish>
+			</Key>
+			<Key ID="STR_HALV_TS3">
+				<Original>TS3: halv.ddns.net:9995</Original>
+				<English>TS3: halv.ddns.net:9995</English>
+			</Key>
+			<Key ID="STR_HALV_SELECT_HALO_OR_GROUND">
+				<Original>Select HALO or Ground Spawn</Original>
+				<English>Select HALO or Ground Spawn</English>
+				<Czech>Vyberte HALO nebo Ground Potěr</Czech>
+				<French>Sélectionnez HALO ou Rez Spawn</French>
+				<German>HALO Wahlen Boden Spawn</German>
+				<Italian>Selezionare HALO o terra Spawn</Italian>
+				<Polish>Wybierz HALO lub mielone Spawn</Polish>
+				<Portuguese>Selecione HALO ou do Spawn do-chão</Portuguese>
+				<Russian>Выберите HALO или наземный Spawn</Russian>
+				<Spanish>Seleccione HALO o tierra de Spawn</Spanish>
+			</Key>
+			<Key ID="STR_HALV_SELECT_GEAR">
+				<Original>Select Gear</Original>
+				<English>Select Gear</English>
+				<Czech>Vybrat Gear</Czech>
+				<French>Sélectionnez vitesse</French>
+				<German>Wählen Sie Geräte</German>
+				<Italian>Selezionare Gear</Italian>
+				<Polish>Wybierz biegów</Polish>
+				<Portuguese>Selecionar engrenagem</Portuguese>
+				<Russian>Выберите передач</Russian>
+				<Spanish>Seleccione Gear</Spanish>
+			</Key>
+			<Key ID="STR_HALV_HALO">
+				<Original>HALO Spawn</Original>
+				<English>HALO Spawn</English>
+				<Czech>HALO Potěr</Czech>
+				<French>HALO Spawn</French>
+				<German>HALO Spawn</German>
+				<Italian>HALO hrogn</Italian>
+				<Polish>HALO Spawn</Polish>
+				<Portuguese>HALO do Spawn</Portuguese>
+				<Russian>HALO Spawn</Russian>
+				<Spanish>HALO Engendro</Spanish>
+			</Key>
+			<Key ID="STR_HALV_GROUND">
+				<Original>Ground Spawn</Original>
+				<English>Ground Spawn</English>
+				<Czech>Ground Potěr</Czech>
+				<French>rez-de Spawn</French>
+				<German>Boden Spawn</German>
+				<Italian>terra Spawn</Italian>
+				<Polish>Parter Spawn</Polish>
+				<Portuguese>O Spawn chão</Portuguese>
+				<Russian>Первый Spawn</Russian>
+				<Spanish>Planta de Spawn</Spanish>
+			</Key>
+		</Container>
+	</Package>
+</Project>
